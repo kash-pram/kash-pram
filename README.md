@@ -42,7 +42,7 @@ I'm passionate about crafting beautiful, intuitive user interfaces that bring id
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-555555?style=for-the-badge&logo=github&logoColor=white)](https://kash-pram.github.io)
 
-[![Secondary](https://img.shields.io/badge/Portfolio-555555?style=for-the-badge&logo=github&logoColor=white)](https://kash-pram.github.io/portfolio)
+[![Secondary](https://img.shields.io/badge/Secondary-555555?style=for-the-badge&logo=github&logoColor=white)](https://kash-pram.github.io/portfolio)
 
 ---
 
