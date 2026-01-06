@@ -41,7 +41,8 @@ I'm passionate about crafting beautiful, intuitive user interfaces that bring id
 ## <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display: inline-block; vertical-align: middle;"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg> Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-555555?style=for-the-badge&logo=github&logoColor=white)](https://kash-pram.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kash-pram)
+
+[![Secondary](https://img.shields.io/badge/Portfolio-555555?style=for-the-badge&logo=github&logoColor=white)](https://kash-pram.github.io/portfolio)
 
 ---
 
