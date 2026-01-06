@@ -16,7 +16,7 @@ I'm passionate about crafting beautiful, intuitive user interfaces that bring id
 
 ## <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display: inline-block; vertical-align: middle;"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg> Tech Stack
 
-**Frontend & UI:** ![Angular](https://img.shields.io/badge/Angular-555555?style=for-the-badge&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-555555?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-555555?style=for-the-badge&logo=html5&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-555555?style=for-the-badge&logo=sass&logoColor=white)
